@@ -11,6 +11,7 @@
 		7F19A040297D7CF4003CE955 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F19A03F297D7CF4003CE955 /* ContentView.swift */; };
 		7F19A042297D7CF6003CE955 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F19A041297D7CF6003CE955 /* Assets.xcassets */; };
 		7F19A045297D7CF6003CE955 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F19A044297D7CF6003CE955 /* Preview Assets.xcassets */; };
+		7F19A04C297D839F003CE955 /* UIKitSliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F19A04B297D839F003CE955 /* UIKitSliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7F19A03F297D7CF4003CE955 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7F19A041297D7CF6003CE955 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7F19A044297D7CF6003CE955 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7F19A04B297D839F003CE955 /* UIKitSliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIKitSliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				7F19A03D297D7CF4003CE955 /* SliderGameApp.swift */,
+				7F19A04B297D839F003CE955 /* UIKitSliderView.swift */,
 				7F19A03F297D7CF4003CE955 /* ContentView.swift */,
 				7F19A041297D7CF6003CE955 /* Assets.xcassets */,
 				7F19A043297D7CF6003CE955 /* Preview Content */,
@@ -139,6 +142,7 @@
 			files = (
 				7F19A040297D7CF4003CE955 /* ContentView.swift in Sources */,
 				7F19A03E297D7CF4003CE955 /* SliderGameApp.swift in Sources */,
+				7F19A04C297D839F003CE955 /* UIKitSliderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
