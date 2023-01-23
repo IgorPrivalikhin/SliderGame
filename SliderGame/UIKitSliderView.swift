@@ -56,3 +56,4 @@ struct UIKitSliderView_Previews: PreviewProvider {
         UIKitSliderView(valueSlider: .constant(50), opacitySlider: 0.3)
     }
 }
+
